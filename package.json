@@ -1,0 +1,16 @@
+{
+    "name": "related-issues-bot",
+    "version": "1.0.0",
+    "description": "A GitHub bot that suggests related issues based on content similarity.",
+    "main": "src/bot.js",
+    "scripts": {
+      "start": "node src/bot.js"
+    },
+    "author": "Amber Torrise",
+    "license": "MIT",
+    "dependencies": {
+      "@octokit/rest": "^18.0.0",
+      "compromise": "^13.11.2",
+      "dotenv": "^10.0.0"
+    }
+  }
