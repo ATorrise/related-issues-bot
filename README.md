@@ -21,6 +21,6 @@ The **Related Issues Bot** is a GitHub bot designed to analyze the sentiment and
    cd related-issues-bot
    npm install
    ```
-2. **Configure the bot** by editing the `config.yaml` file and setting up any required secrets or tokens.
+2. **Configure the bot** by editing the `config.yaml` file and setting up any required secure variables.
 3. **Enable the GitHub Actions workflow** by customizing and committing the `related-issues.yml` file to your repository.
 
