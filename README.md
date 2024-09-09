@@ -1,4 +1,4 @@
-# Related Issues Bot
+# Related Issues Bot [WIP!]
 
 The **Related Issues Bot** is a GitHub bot designed to analyze the sentiment and content of newly created issues and suggest related issues that might be relevant. This helps maintainers and contributors avoid duplicate issues and promotes more effective issue tracking.
 
